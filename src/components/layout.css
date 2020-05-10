@@ -75,10 +75,12 @@ a:focus {
 
 .heading-1 {
   font-size: 2.5rem;
+  line-height: 2;
 }
 
 .heading-2 {
   font-size: 2rem;
+  line-height: 2;
 }
 
 .heading-3 {
